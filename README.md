@@ -37,3 +37,5 @@
   
   christianj91@gmail.com
   
+  link to walkthrough video: https://drive.google.com/file/d/1fpbx4CdH-z09jg8BFnWeK6ZaLKBXzdRC/view
+  
