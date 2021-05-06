@@ -64,9 +64,11 @@ const questions = [
 // Function to write the read me file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
-      err
-        ? console.error(err)
-        : console.log("README file created successfully");
+     if(err) {
+        console.error(err)
+     }else {
+        console.log("README file created successfully");
+     }
     });
   }
 
