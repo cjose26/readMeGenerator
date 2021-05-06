@@ -33,8 +33,11 @@ function generateMarkdown(answers) {
 
   ## Questions
   See my contact info below if you have any questions.
+
   ${answers.githubUserName}
+
   ${answers.githubURL}
+  
   ${answers.email}
   
 `

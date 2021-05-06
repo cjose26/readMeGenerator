@@ -1,9 +1,9 @@
 
   ## Title
-  j
+  Readme Generator
 
   ## Description 
-  h
+  Generates a standard Readme 
   
   ## Table of Contents
   1. [Installation](#installation)
@@ -14,23 +14,26 @@
   6. [Contact](#contact)
   
   ## Installation
-  h
+  run npm i in the terminal
 
   ## Usage
-  g
+  After installing, the terminal will ask a few question in which you will anser. These answers will be on your readme file
 
   ## License
   MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
-  g
+  Reach out to me using the contacts below
 
   ## Tests
-  gff
+  There are not test instructions
 
   ## Questions
   See my contact info below if you have any questions.
-  f
-  f
-  f
+
+  cjose26
+
+  https://github.com/cjose26
+  
+  christianj91@gmail.com
   
